@@ -1,6 +1,6 @@
 Friday 21 February 2025
 
-Share the Jupyter notebook with non-programmers in an interactive version.
+Share the Jupyter notebook with non-programmers in an interactive version. Done. Used Google Colab.
 
 - See https://colab.research.google.com/notebooks/intro.ipynb
 - See https://mybinder.org/ <-- this is slow to load.
