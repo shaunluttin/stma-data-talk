@@ -1,6 +1,6 @@
 Friday 21 February 2025
 
-Share the Jupyter notebook with non-programmers.
+Share the Jupyter notebook with non-programmers. Done.
 
 - See https://stackoverflow.com/questions/31855794/how-can-i-share-jupyter-notebooks-with-non-programmers
 
