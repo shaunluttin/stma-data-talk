@@ -1,7 +1,11 @@
-### Static View in GitHub
+### View Static Demo in GitHub
 
-https://github.com/shaunluttin/stma-data-talk/blob/main/data-talk-demo-01.ipynb
+Go to https://github.com/shaunluttin/stma-data-talk/blob/demo
 
-### Interactive View in Google Colab
+### View Interactive Demo in Google Colab
 
-https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/data-talk-demo-01.ipynb
+Go to https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/demo
+
+### Run the Demo Locally
+
+1. Go to
