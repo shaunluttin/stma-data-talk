@@ -1,19 +1,30 @@
-### Options 1: View Static Demo in GitHub
+### Options 1: Easiest
 
-Visit the following web addresses:
-
-- https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/demo/demo-01.ipynb
-- https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/demo/demo-02.ipynb
-- https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/demo/demo-03.ipynb
-
-### Option2: View Interactive Demo in Google Colab
-
-Visit the following web addresses:
+View a static demo in GitHub by visiting the following links.
 
 - https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/demo/demo-01.ipynb
 - https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/demo/demo-02.ipynb
 - https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/demo/demo-03.ipynb
 
-### Option 03: Run the Demo Locally
+### Option2: Medium Difficulty
 
-1. Go to
+View an interactive demo in Google Colab by visiting the following links:
+
+- https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/demo/demo-01.ipynb
+- https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/demo/demo-02.ipynb
+- https://colab.research.google.com/github/shaunluttin/stma-data-talk/blob/main/demo/demo-03.ipynb
+
+### Option 03: Hardest
+
+Run the demo locally by following these steps:
+
+Prerequisites:
+
+1. Install Python3 (or a Python Virtual Environment).
+1. Install VS Code.
+1. Install the Jupyter Notebook extension in VS Code.
+
+Then:
+
+1. Visit https://github.com/shaunluttin/stma-data-talk.
+2. Download the `demo.zip` folder.
