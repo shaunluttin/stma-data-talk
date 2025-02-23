@@ -23,8 +23,14 @@ Prerequisites:
 1. Install Python3 (or a Python Virtual Environment).
 1. Install VS Code.
 1. Install the Jupyter Notebook extension in VS Code.
+1. Install Git.
 
-Then:
+Then open a command prompt and run the following:
 
-1. Visit https://github.com/shaunluttin/stma-data-talk.
-2. Download the `demo.zip` folder.
+```
+cd C:/
+mkdir mba-demo
+git clone https://github.com/shaunluttin/stma-data-talk.git
+cd stma-data-talk
+code demo
+```
