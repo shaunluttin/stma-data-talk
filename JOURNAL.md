@@ -1,3 +1,11 @@
+Sunday 22 February 2025
+
+Select specific rows and columns with `iloc[row,column]`.
+
+Write a dataframe to csv with `to_csv(filePath)`.
+
+Write a dataframe to an existing Excel file with `...`.
+
 Friday 21 February 2025
 
 Share the Jupyter notebook with non-programmers in an interactive version. Done. Used Google Colab.
