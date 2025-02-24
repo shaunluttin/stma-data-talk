@@ -4,22 +4,36 @@
 
 It has two parts: web and scraping.
 
-The web is HTML accessed over the Internet.
+The "web" is HTML accessed over the Internet.
 
-Scraping involves:
+The "scraping" is:
 
-- extracting data from that HTML,
-- cleaning that data,
-- storing that data for later processing by other tools (e.g., Large Language Models, Excel...)
+- extracting,
+- cleaning,
+- storing
 
 ## In Scope?
 
-Web scraping of tabular data into Excel using Pandas.
+Web scraping tabular data into Excel using Python & Pandas.
 
 ## Out of Scope?
 
 - Direct API queries.
-- Web scraping of non-tabular data using Beautiful Soup.
-- Use authentication using e.g., automation tools like Selenium.
-- Feeding data into AI tools.
+- Non-tabular data.
+- Automation e.g., for username/passwords.
+- Feeding data to AI tools.
 - Visualizing data.
+
+## What is Python?
+
+Python is a way of interacting with a computer.
+
+Most people use a mouse... Python lets you use code.
+
+## Prerequisites
+
+Install the following software:
+
+- Python: a programatic way of interacting with a computer.
+- VS Code: a text editor.
+- VS Code Jupyter Extension: an interactive Python environment.
